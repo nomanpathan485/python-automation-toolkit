@@ -9,7 +9,7 @@
 [![License](https://img.shields.io/badge/License-MIT-blue?style=for-the-badge)]()
 [![Maintenance](https://img.shields.io/badge/Maintained-Yes-green?style=for-the-badge)]()
 
-[Overview](#-overview) • [Features](#-features) • [Quick Start](#-quick-start) • [Automations](#-current-automations) • [Roadmap](#-roadmap) • [Contributing](#-contributing)
+[Overview](#-overview) • [Features](#-features) • [Quick Start](#-quick-start) • [Automations](#-current-automations) • [Roadmap](#-roadmap) • [Contributing](#-contributing) • [License](#-license)
 
 </div>
 
@@ -160,7 +160,7 @@ Contributions, ideas, and feedback are welcome!
 
 ## 📜 License
 
-Distributed under the **MIT License**. See `LICENSE` for more information.
+Distributed under the **MIT License**. See [`LICENSE`](./LICENSE) for more information.
 
 ---
 
